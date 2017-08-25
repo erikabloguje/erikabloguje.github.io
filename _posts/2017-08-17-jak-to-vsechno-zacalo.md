@@ -2,8 +2,6 @@
 layout: post
 title: Jak to všechno začalo
 image: /assets/posts/2017-08-17-jak-to-vsechno-zacalo/avatar.jpg
-tags:
-  - prvni
 published: true
 ---
 

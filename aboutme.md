@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: O mně
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Narodila jsem se na podzim roku 1984, o necelý rok dřív než můj milovaný manžel Martin. Je tedy dost možné, že pokud bude naše dcera Terezka po mamince, její budoucí manžel je tak možná ještě na houbách :-)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Stejně jako můj muž, jsem benjamínkem rodiny. Celkem máme tři bratry, dvě neteře a čtyři synovce, a tak se z nás naším spojením stala velká rodina.
 
-What else do you need?
+Martina jsem potkala chvíli před jeho třicátými narozeninami. A s jeho příchodem do mého života se mi život otočil o třistašedesát stupňů. V létě roku 2017 se nám narodila dcera Terezka a jejím narozením nám tak začala další životní etapa, která jak doufáme bude plná nových dobrodružství.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Těšíme se na každý okamžik a do budoucna bychom si přáli, aby se nám rodina ještě o něco rozrostla :-)
