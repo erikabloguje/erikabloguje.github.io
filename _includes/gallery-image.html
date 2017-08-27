@@ -3,6 +3,6 @@
 {% if include.size == "medium" %}
     {% assign width = "400" %}
 {% endif %}
-{% image_tag src=image_path width=width %}
+![{{include.caption}}]({{image_path}})
 <br>
 _{{include.caption}}_
