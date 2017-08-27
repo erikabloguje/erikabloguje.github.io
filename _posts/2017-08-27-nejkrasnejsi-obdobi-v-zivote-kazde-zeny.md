@@ -1,6 +1,6 @@
 ---
 title: Těhotenství - nejkrásnější období v životě každé ženy!
-excerpt: sem přijde výňatek
+excerpt: Ve čtvrtek 17. listopadu 2016, v Den za svobodou a demokracii, nás brzy ráno čekalo příjemné překvapení. Na těhotenském testu se nám ukázaly dvě čárky...
 ---
 
 ## První trimestr
@@ -18,7 +18,7 @@ Před odletem jsme s Martinem oba stihli ještě onemocnět, protože bylo obdob
 
 Po návratu z dovolené nás čekal první velký ultrazvuk, ze kterého jsme dostali první fotku. Několik dnů jsem se na fotku nemohla vynadívat a snažila jsem se dopátrat, jestli to je holka nebo kluk. Neměla jsem ale ani ponětí a ani žádné vnitřní tušení. Podle babských rad to vypadalo na kluka, podle pusinky na fotce mi to připadalo jako holčička. Jediný, kdo si byl jistý, že to je holka, byla moje maminka :-)
 
-{% include gallery-image.html src="ultrazvuk.JPG" caption="Ultrazvuk" %} 
+{% include gallery-image.html src="ultrazvuk.jpg" caption="Ultrazvuk" %} 
 
 Další velká událost, která nás po návratu z dovolené čekala, byla příprava svatby, kterou jsme chtěli stihnout ještě před narozením Terezky. Brali jsme se ve 24. týdnu těhotenství, tzn. v šestém měsíci.
 
@@ -40,7 +40,7 @@ Poslední dva týdny byly už náročné a i třeba tak jednoduchý úkon jako v
 
 Těhotenství je krásné období. Sice je tam na konci pořád ten porod, ale ten pocit, že ve mně roste nový život, nic nenahradí.
 
-{% include gallery-image.html src="tehotna_a_hvezdar.JPG" caption="Jedna společná z našeho focení" %} 
+{% include gallery-image.html src="tehotna_a_hvezdar.jpg" caption="Těhotná a hvězdář" %} 
 
 
 
