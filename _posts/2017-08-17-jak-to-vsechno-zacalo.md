@@ -1,8 +1,5 @@
 ---
-layout: post
 title: Jak to všechno začalo
-image: /assets/posts/2017-08-17-jak-to-vsechno-zacalo/avatar.jpg
-published: true
 ---
 
 Konečně je to tu! To, na co si malé holčičky hrají jen co se naučí samy chodit... Dostanou svůj první malý kočárek a v něm panenku, o kterou se starají, převlékají, krmí, hladí, chovají, milují. Mají rády opravdová miminka a jsou nadšené, když se můžou na nějaké podívat a někdy si i nějaké trošku pochovat. Pak ale povyrostou, začnou mít jiné záliby, koníčky, starosti a povinnosti a ten opravdový kočárek je čeká až později. Na někoho čeká ten opravodvý kočárek hned po škole, někoho po třicítce, někoho až po nějakém kariérním úspěchu. Každopádně je jen pár žen, kterým ty pomyslné hodiny nezačnou tikat vůbec.

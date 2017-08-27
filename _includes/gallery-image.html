@@ -1,0 +1,8 @@
+{% capture image_path %}/assets/posts{{page.id}}/{{include.src}}{% endcapture %}
+{% assign width = "750" %}
+{% if include.size == "medium" %}
+    {% assign width = "400" %}
+{% endif %}
+{% image_tag src=image_path width=width %}
+<br>
+_{{include.caption}}_
