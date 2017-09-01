@@ -5,4 +5,4 @@
 {% endif %}
 ![{{include.caption}}]({{image_path}})
 <br>
-_{{include.caption}}_
+{% if include.caption %}_{{include.caption}}_{% endif %}
