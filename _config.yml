@@ -24,6 +24,7 @@ description: Osobní blog Eriky Obrátilové
 # List of links in the navigation bar
 navbar-links:
   Domů: "http://www.erikabloguje.cz"
+  Odběr novinek: newsletter
   O mně: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
