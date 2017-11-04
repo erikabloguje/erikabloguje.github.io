@@ -27,7 +27,7 @@ Tohle je asi to nejdůležitější ze všech věcí, které miminko potřebuje.
 
 Málem jsme zapomněla - ještě je potřeba pořídit přebalovací pult, pleny jednorázové, ale i látkové, vlhčené ubrousky, žinky, jednorázové přebalovací podložky na cesty, přebalovací taška, pláštěnka na kočárek, moskytiéra atd. atd. :-)
 
-Miminko je malý človíček, ale potřebuje toho skoro víc než dospělý člověk :-D Každý rodič se ale na svůj úkor ochotně uskromní. Miminka jsou přeci tak rozkošný a hned si vás získají :-)
+Miminko je malý človíček, ale potřebuje toho skoro víc než dospělý člověk :-D Každý rodič se ale na svůj úkor ochotně uskromní. Miminka jsou přeci tak rozkošná a hned si vás získají :-)
 
 Poznámka: Martin dodává, že jsem zapomněla na dudlíčky :-D
 
