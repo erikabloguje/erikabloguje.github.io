@@ -11,7 +11,7 @@ Začneme tedy hračkami, které se zprvu zdají být nedůležité, ale po něko
 
 S Martinovo pomocí jsem vám připravila nahrávku melodie z jedné z mnoha hraček. Tato a další melodie se nám již teď tak vryly do paměti, že si je "broukáme" i ve sprše :-D Vypudit je z hlavy, bude trvat asi tak následujících deset let.
 
-<iframe src="http://www.youtube.com/embed/hrWYB2qnDLg?autoplay=1" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html videoid="hrWYB2qnDLg" %}
 
 Kromě hraček jsou i další a důležitější věci, které je nutné miminku pořídit.
 
@@ -30,3 +30,6 @@ Málem jsme zapomněla - ještě je potřeba pořídit přebalovací pult, pleny
 Miminko je malý človíček, ale potřebuje toho skoro víc než dospělý člověk :-D Každý rodič se ale na svůj úkor ochotně uskromní. Miminka jsou přeci tak rozkošný a hned si vás získají :-)
 
 Poznámka: Martin dodává, že jsem zapomněla na dudlíčky :-D
+
+
+<iframe src="http://www.youtube.com/embed/hrWYB2qnDLg?autoplay=1" frameborder="0" allowfullscreen></iframe>
