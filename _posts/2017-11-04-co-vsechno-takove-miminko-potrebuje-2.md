@@ -11,13 +11,13 @@ Začneme tedy hračkami, které se zprvu zdají být nedůležité, ale po něko
 
 S Martinovo pomocí jsem vám připravila nahrávku melodie z jedné z mnoha hraček. Tato a další melodie se nám již teď tak vryly do paměti, že si je "broukáme" i ve sprše :-D Vypudit je z hlavy, bude trvat asi tak následujících deset let.
 
+<iframe src="http://www.youtube.com/embed/hrWYB2qnDLg?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
 Kromě hraček jsou i další a důležitější věci, které je nutné miminku pořídit.
 
 Abyste se vůbec dostali z porodnice, je potřeba pořídit autosedačku. Při výběru se člověk opět docela slušně zapotí. Zároveň je nutné nad výběrem autosedačky přemýšlet již při výběru kočárku, aby byla sedačka kompatibilní - neboli aby šla upevnit na podvozek kočárku.
 
 Jakmile přijedete domů z porodnice, musíte mít kam miminko dát - je třeba mít připravený buď proutěný košík nebo rovnou postýlku a také místo, ve kterém bude miminko komfortně umístěné a v bezpečí i v obývacím pokoji. Do postýlky je potřeba zajistit vhodnou matraci a nainstalovat monitor dechu, který hlídá dech miminka. Potom je také potřeba chůvička a samozřejmě zavinovačka a nebo peřinka. Posléze přijdete na to, že potřebujete i "klínek", což je takový polštářek pro miminka, který je dobrý v případě, že má miminko rýmu. Na strany postýlky je potřeba umístit mantinely a nad postýlku ideálně nainstalovat hrací kolotoč.
- 
-<iframe width="720" height="380" src="http://www.youtube.com/embed/hrWYB2qnDLg?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 Miminko musíte ale také občas vykoupat. Je tak tedy potřeba koupit vaničku a k tomu osušky s kapucí, mycí žinky, teploměr do vody a koupací kosmetiku.
 
