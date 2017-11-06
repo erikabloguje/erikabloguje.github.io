@@ -30,6 +30,3 @@ Málem jsme zapomněla - ještě je potřeba pořídit přebalovací pult, pleny
 Miminko je malý človíček, ale potřebuje toho skoro víc než dospělý člověk :-D Každý rodič se ale na svůj úkor ochotně uskromní. Miminka jsou přeci tak rozkošná a hned si vás získají :-)
 
 Poznámka: Martin dodává, že jsem zapomněla na dudlíčky :-D
-
-
-<iframe src="http://www.youtube.com/embed/hrWYB2qnDLg?autoplay=1" frameborder="0" allowfullscreen></iframe>
